@@ -1,6 +1,6 @@
-#Welcome to my github!
-##Programming fundamentals fall 2024
-###Lab 2
+# Welcome to my github!
+## Programming fundamentals fall 2024
+### Lab 2
 
 *Hammad* Here!
 
